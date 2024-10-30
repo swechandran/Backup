@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wbqqqZmWT/LyLikIJvhkOy91SsL6rUqibVH2bAWXeHU=",
+  "Source": "ImageToPDFApi",
+  "BasePath": "_content/ImageToPDFApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

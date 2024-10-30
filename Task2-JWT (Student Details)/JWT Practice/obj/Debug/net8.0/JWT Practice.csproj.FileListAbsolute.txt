@@ -1,0 +1,7 @@
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.csproj.AssemblyReference.cache
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.AssemblyInfoInputs.cache
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.AssemblyInfo.cs
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.csproj.CoreCompileInputs.cache
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.MvcApplicationPartsAssemblyInfo.cs
+C:\VSCode Programs\TestProgram\Task2\JWT Practice\obj\Debug\net8.0\JWT Practice.MvcApplicationPartsAssemblyInfo.cache

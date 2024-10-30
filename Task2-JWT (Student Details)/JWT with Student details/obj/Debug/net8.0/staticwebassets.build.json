@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "kBkL4Mb0Exx2v5WI0jQEZQKRFX9D5ogZ/aoz4BUEd0U=",
+  "Source": "JWT with Student details",
+  "BasePath": "_content/JWT with Student details",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Student Details.csproj",
+      "Version": 2,
+      "Source": "Student Details",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile"
+    },
+    {
+      "Identity": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Student Details.csproj",
+      "Version": 2,
+      "Source": "Student Details",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

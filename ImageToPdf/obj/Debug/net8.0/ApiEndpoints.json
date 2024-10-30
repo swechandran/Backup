@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ImageToPdfController",
+    "Method": "ConvertImageToPdf",
+    "RelativePath": "api/ImageToPdf/convert",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageFile",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

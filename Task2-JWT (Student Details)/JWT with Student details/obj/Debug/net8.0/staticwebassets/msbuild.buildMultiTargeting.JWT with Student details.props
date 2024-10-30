@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JWT with Student details.props" />
+</Project>

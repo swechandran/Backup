@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSCode Programs\\TestProgram\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|c:\\vscode programs\\testprogram\\task2\\jwt practice 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|solutionrelative:jwt practice 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8259C8C-1C38-4373-AD13-0876E1D583F5}|Student Details\\Student Details.csproj|c:\\vscode programs\\testprogram\\task2\\student details\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8259C8C-1C38-4373-AD13-0876E1D583F5}|Student Details\\Student Details.csproj|solutionrelative:student details\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8259C8C-1C38-4373-AD13-0876E1D583F5}|Student Details\\Student Details.csproj|c:\\vscode programs\\testprogram\\task2\\student details\\model\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8259C8C-1C38-4373-AD13-0876E1D583F5}|Student Details\\Student Details.csproj|solutionrelative:student details\\model\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|c:\\vscode programs\\testprogram\\task2\\jwt practice 2\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|solutionrelative:jwt practice 2\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|c:\\vscode programs\\testprogram\\task2\\jwt practice 2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462544B4-0ED7-4715-B279-755F01D749CF}|Jwt Practice 2\\Jwt Practice 2.csproj|solutionrelative:jwt practice 2\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Jwt Practice 2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Jwt Practice 2\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:19:44.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Student Details\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Student Details\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:17:58.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Model\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "Student Details\\Model\\StudentDetails.cs",
+              "ToolTip": "C:\\VSCode Programs\\TestProgram\\Task2\\Student Details\\Model\\StudentDetails.cs",
+              "RelativeToolTip": "Student Details\\Model\\StudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:17:54.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "Jwt Practice 2\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Controllers\\TestController.cs",
+              "RelativeToolTip": "Jwt Practice 2\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:41:26.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Models\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "Jwt Practice 2\\Models\\StudentDetails.cs",
+              "ToolTip": "C:\\VSCode Programs\\TestProgram\\Task2\\Jwt Practice 2\\Models\\StudentDetails.cs",
+              "RelativeToolTip": "Jwt Practice 2\\Models\\StudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:36:01.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

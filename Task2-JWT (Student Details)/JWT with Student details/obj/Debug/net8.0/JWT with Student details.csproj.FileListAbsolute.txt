@@ -1,0 +1,82 @@
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Student Details.deps.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Student Details.runtimeconfig.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Student Details.exe
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\appsettings.Development.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\appsettings.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\JWT with Student details.exe
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\JWT with Student details.deps.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\JWT with Student details.runtimeconfig.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\JWT with Student details.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\JWT with Student details.pdb
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Azure.Core.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Azure.Identity.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.ClientModel.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.Memory.Data.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Student Details.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\Student Details.pdb
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.csproj.AssemblyReference.cache
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.AssemblyInfoInputs.cache
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.AssemblyInfo.cs
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.csproj.CoreCompileInputs.cache
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.MvcApplicationPartsAssemblyInfo.cs
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.MvcApplicationPartsAssemblyInfo.cache
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets.build.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets.development.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets\msbuild.JWT with Student details.Microsoft.AspNetCore.StaticWebAssets.props
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets\msbuild.build.JWT with Student details.props
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JWT with Student details.props
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JWT with Student details.props
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\staticwebassets.pack.json
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\scopedcss\bundle\JWT with Student details.styles.css
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with.972757F1.Up2Date
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\refint\JWT with Student details.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.pdb
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\JWT with Student details.genruntimeconfig.cache
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\obj\Debug\net8.0\ref\JWT with Student details.dll
+C:\VSCode Programs\TestProgram\Task2\JWT with Student details\bin\Debug\net8.0\FluentAssertions.dll
